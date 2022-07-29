@@ -25,7 +25,7 @@
    - WhiteBoard 보단 Trello를  
     ![trello](./img/trello.jpg)    
    - 한글/MS office보단 Google Docs를  
-    ![googledocs](./img/googledocs.jpeg)  
+    ![googledocs](./img/googledocs.jpg)  
    - KakaoTalk 보단 Slack을 활용할 예정입니다.  
     ![slack](./img/slack.gif)  
    <br>  
